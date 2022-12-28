@@ -4,3 +4,4 @@ Excel Programming
 SQL Programming
 Data Warehousing
 ETLt tools
+Power BI
